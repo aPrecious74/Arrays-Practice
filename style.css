@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+}
+
+form{
+    border: rgb(0, 0, 0) , solid 4px;
+    padding:25px;
+    border-radius: 25px;
+    background-color: rgba(255, 255, 255, 0.628);
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+    margin: auto;
+
+}
+form * {
+    margin: 5px;
+    padding: 5px;
+}
